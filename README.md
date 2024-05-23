@@ -1,5 +1,5 @@
-Use JDK 17
-Use Maven 3.8.4
+* Use JDK 17
+* Use Maven 3.8.4
 
 # Compile and Run
 * Navigate to root directory of the project
