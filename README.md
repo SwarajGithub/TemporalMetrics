@@ -6,7 +6,7 @@
 * Run `mvn clean install`
 * Run `java -jar target/TemporalMetricsForWorker-1.0-SNAPSHOT.jar`
 
-#Start jconsole
+# Start jconsole
 * Run `jconsole`
 * Connect to TemporalMetricsForWorker-1.0-SNAPSHOT.jar
 
