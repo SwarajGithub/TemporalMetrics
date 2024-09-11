@@ -22,7 +22,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan
 public class SampleSimpleApplication {
 
 	// Simple example shows how a command line spring application can execute an
